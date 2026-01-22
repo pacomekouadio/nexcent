@@ -638,7 +638,8 @@ footer .container .support form input{
 
     .client .container .logo{
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
+        gap: 2em;
         margin-top: 30px;
     }
 
@@ -960,7 +961,6 @@ footer .container .support form input{
 
     .client .container .logo{
         display: flex;
-        justify-content: space-evenly;
         margin-top: 4em;
     }
 
@@ -982,7 +982,7 @@ footer .container .support form input{
     .manage .container .description {
         display: flex;
         justify-content: space-evenly;
-        gap: 170px;
+        gap: 0;
     }
 
     .manage .container .title h2{
