@@ -253,7 +253,8 @@ section{
 }
 
 .manage .container .description .block{
-    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.048);
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.048);
+    margin-bottom: 3em;
 }
 
 .unseen .container{
@@ -981,7 +982,7 @@ footer .container .support form input{
 
     .manage .container .description {
         display: flex;
-        gap: 2em;
+        margin-top: 2em;
     }
 
     .manage .container .description .block{
@@ -989,7 +990,7 @@ footer .container .support form input{
     }
 
     .manage .container .title h2{
-        padding: 10px 199px
+        padding: 10px 100px
     }
 
     .manage .container .title p{
