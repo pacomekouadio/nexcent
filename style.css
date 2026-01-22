@@ -981,8 +981,11 @@ footer .container .support form input{
 
     .manage .container .description {
         display: flex;
-        justify-content: space-evenly;
-        gap: 0;
+        gap: 5em;
+    }
+
+    .manage .container .description .block{
+        padding: 3em 3em;
     }
 
     .manage .container .title h2{
